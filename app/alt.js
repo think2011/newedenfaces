@@ -1,3 +1,3 @@
-/**
- * Created by think2011 on 15/12/2.
- */
+import Alt from 'alt';
+
+export default new Alt();
